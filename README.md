@@ -14,12 +14,7 @@ Ljubljana.
 -->
 **[ Download for Windows goes here — see Releases ]**
 
-<!-- 
-  PLACEHOLDER: Demo video
-  Replace with an embedded video, e.g.:
-  [![Watch the demo](docs/video-thumbnail.png)](https://youtu.be/your-video-id)
--->
-**[ Video demo goes here ]**
+[![Watch the demo](https://img.youtube.com/vi/O4ZpvVHe3BA/maxresdefault.jpg)](https://youtu.be/O4ZpvVHe3BA?t=36)
 
 ![Mandelbuld](Screenshoots/Capture13.PNG)
 
