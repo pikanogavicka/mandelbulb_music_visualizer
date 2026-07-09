@@ -6,13 +6,7 @@ music, using ray marching on the GPU and an FFT-based audio analysis of the trac
 This project started as a university assignment for the Faculty of Computer and Information Science, University of
 Ljubljana.
 
-<!--
-  PLACEHOLDER: Download link
-  zip the FinalBuild/ folder (Mandelbulb.exe, UnityPlayer.dll, Mandelbulb_Data/, MonoBleedingEdge/)
-  and attached it to a GitHub Release, replace the link below, e.g.:
-  [**⬇ Download for Windows**](https://github.com/<user>/<repo>/releases/latest/download/Mandelbulb.zip)
--->
-**[ Download for Windows goes here — see Releases ]**
+⬇️ **[Download for Windows](https://github.com/pikanogavicka/mandelbulb_music_visualizer/releases/download/windows_build/FinalBuild.zip)**
 
 ▶️ **[Watch the demo video](https://youtu.be/O4ZpvVHe3BA?t=36)**
 
